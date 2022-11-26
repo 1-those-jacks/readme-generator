@@ -1,27 +1,27 @@
-# Readme Generator
+# ReadMe Generator
 ## Table of Contents
-	- [Description](#Description)
-	- [Installation](#Installation)
-	- [Usage](#Usage)
-	- [Contribution](#Contribution)
-	- [Testing](#Testing)
-	- [License](#License)
-	- [Questions](#Questions)
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[Contribution](#contribution)
+[Testing](#testing)
+[License](#license)
+[Questions](#questions)
 
 ## Description
-	Creates a ReadME file
+	It creates a custom ReadMe based on responses through the CLI.
 
 ## Installation
-	You run the index.js on the CLI.
+	Download the latest version from GitHub.
 
 ## Usage
-	You run the index.js on the CLU.
+	Running Node.js through the CLI.
 
 ## Contribution
-	You cannot 
+	You cannot.
 
 ## Testing
-	using the CLI
+	Run through the CLI.
 
 ## License
 	none

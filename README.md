@@ -1,12 +1,18 @@
 # Readme Generator
 ## Table of Contents
-	- [Description](#Description)
-	- [Installation](#Installation)
-	- [Usage](#Usage)
-	- [Contribution](#Contribution)
-	- [Testing](#Testing)
-	- [License](#License)
-	- [Questions](#Questions)
+[Description](#description)
+
+[Installation](#installation)
+
+[Usage](#usage)
+
+[Contribution](#contribution)
+
+[Testing](#testing)
+
+[License](#license)
+
+[Questions](#questions)
 
 ## Description
 	Creates a ReadME file
