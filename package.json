@@ -4,7 +4,9 @@
   "description": "Repository for the Week #9 homework challenge due 11/29/22",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js",
+		"debug": "node --trace-uncaught index.js"
   },
   "author": "1-those-jacks",
   "license": "ISC",
